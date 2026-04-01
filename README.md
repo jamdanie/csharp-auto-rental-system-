@@ -1,4 +1,4 @@
-# AutoRental — C# Console Application
+# AutoRental â€” C# Console Application
 
 A simple C# console application that models an auto rental inventory using a
 POCO-style `Car` class. This project was created as a school assignment to practice
@@ -38,3 +38,4 @@ is represented by a `Car` object with descriptive properties and rental pricing.
 - 1971 Pontiac GTO
 - 1979 Ferrari Boxer
 - 1980 Porsche 911 Turbo
+
