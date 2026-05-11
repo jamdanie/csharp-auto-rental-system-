@@ -8,7 +8,7 @@ object-oriented programming fundamentals.
 The application represents a single-user auto rental system specializing in
 classic muscle and exotic cars from the 1970s and 1980s. Each car in inventory
 is represented by a `Car` object with descriptive properties and rental pricing.
-
+ 
 ## Features
 - POCO (`Plain Old C# Object`) design for the `Car` class
 - Default and fully-parameterized constructors
