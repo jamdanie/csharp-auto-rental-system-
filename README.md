@@ -4,7 +4,7 @@ A simple C# console application that models an auto rental inventory using a
 POCO-style `Car` class. This project was created as a school assignment to practice
 object-oriented programming fundamentals.
 
-## Project Overview
+## Project Overview 
 The application represents a single-user auto rental system specializing in
 classic muscle and exotic cars from the 1970s and 1980s. Each car in inventory
 is represented by a `Car` object with descriptive properties and rental pricing.
