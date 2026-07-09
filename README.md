@@ -17,7 +17,7 @@ is represented by a `Car` object with descriptive properties and rental pricing.
 - Console-based test driver to verify object behavior
 
 ## Key Concepts Practiced
-- Classes and objects
+- Classes and objects 
 - Constructors and constructor overloading
 - Properties (`get` / `set`)
 - Method overriding (`ToString`)
